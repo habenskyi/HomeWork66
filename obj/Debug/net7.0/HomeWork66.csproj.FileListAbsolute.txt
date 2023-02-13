@@ -1,0 +1,15 @@
+C:\Cisharp\HOMEWORK\HomeWork66\bin\Debug\net7.0\HomeWork66.exe
+C:\Cisharp\HOMEWORK\HomeWork66\bin\Debug\net7.0\HomeWork66.deps.json
+C:\Cisharp\HOMEWORK\HomeWork66\bin\Debug\net7.0\HomeWork66.runtimeconfig.json
+C:\Cisharp\HOMEWORK\HomeWork66\bin\Debug\net7.0\HomeWork66.dll
+C:\Cisharp\HOMEWORK\HomeWork66\bin\Debug\net7.0\HomeWork66.pdb
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.csproj.AssemblyReference.cache
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.AssemblyInfoInputs.cache
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.AssemblyInfo.cs
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.csproj.CoreCompileInputs.cache
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.dll
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\refint\HomeWork66.dll
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.pdb
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\HomeWork66.genruntimeconfig.cache
+C:\Cisharp\HOMEWORK\HomeWork66\obj\Debug\net7.0\ref\HomeWork66.dll
